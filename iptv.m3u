@@ -1,0 +1,172 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://ottiptv.ru/epg.xml.gz"
+
+#EXTINF:0 type="stream" channelId="125", Первый канал HD
+http://192.162.212.60:4880/ort_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="347" logo="https://iptvxpix.ml/ont-by.png", ОНТ (BY)
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/ontbelarus/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="203" logo="http://epg.it999.ru/img/984.png", Россия HD
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:0 type="stream" channelId="782", Россия РТР
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="10", Россия 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/efir/tvcentr.png", ТВЦ HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/TVC/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="498" logo="http://epg.it999.ru/img/2001.png", НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/mono.m3u8
+#EXTINF:0 type="stream" channelId="1727" logo="http://ottiptv.ru/img/logos/efir/mir.png", Мир HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/mir_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="26", Пятница HD
+https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/films/subbota.png", Суббота! HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/SUBBOTA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="1104", Известия HD
+http://192.162.212.60:4880/izvestiya/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="11", РЕН ТВ
+http://37.18.59.236:8080/rentv/index.m3u8
+#EXTINF:0 type="stream" channelId="3630", ТНТ HD
+http://37.18.59.236:8080/tnthd/index.m3u8
+#EXTINF:0 type="favorites" channelId="2915" logo="http://ottiptv.ru/img/logos/show/tnt-int.png", ТНТ International
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/tnt_International/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="77", ТНТ4
+http://37.18.59.236:8080/tnt4/index.m3u8
+#EXTINF:0 type="stream" channelId="12", СТС HD
+http://37.18.59.236:8080/stshd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/ukraina/tet.png", Тет HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/tet_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="favorites" channelId="-1" logo="http://ottiptv.ru/img/logos/ukraina/1plus1.png", 1+1 HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/1plus1_HD_UA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="favorites" channelId="435" logo="http://ottiptv.ru/img/logos/ukraina/2plus2.png", 2+2
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/2plus2/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="favorites" channelId="-1" logo="http://ottpink.network/picons/ictv_hd_ua.png", ICTV HD
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:0 type="stream" channelId="8", ТВ3 HD
+http://192.162.212.60:4880/tv3_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/belarus/belarus1hd.png", Беларусь 1 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus1hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/belarus/belarus2hd.png", Беларусь 2 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus2hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/belarus/belarus3hd.png", Беларусь 3 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus3hd/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/belarus/belarus4.png", Беларусь 4 BY
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/vok_belarus4_vitebsk/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="-1" logo="http://ottiptv.ru/img/logos/sport/belarus5HD.png", Беларусь 5 HD BY
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/BELARUS5/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="296", БЕЛАРУСЬ 24
+http://31.210.208.167:80/belarus24/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="3925", Приключения HD
+http://192.162.212.60:4880/teletravel_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="335", Охотник и рыболов HD
+http://192.162.212.60:4880/ohot_i_rybolov_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="221" logo="http://ottiptv.ru/img/logos/show/oxota-i-rybalka.png", Охота и рыбалка
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/OHOTAIRIBALKA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="3881", Дикая охота HD
+http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8
+#EXTINF:0 type="stream" channelId="4118" logo="http://ottiptv.ru/img/logos/poznanie/viasat-explore.png", Viasat Explore HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATEXPLORE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="1383" logo="http://ottiptv.ru/img/logos/sport/viasat-sport.png", Viasat Sport HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATSPORT/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="757" logo="http://ottiptv.ru/img/logos/poznanie/viasat-nature.png", Viasat Nature HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATNATURE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="130" logo="http://ottiptv.ru/img/logos/poznanie/viasat-history.png", Viasat History HD
+http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATHISTORY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="60", DTX HD
+https://lb.telepark.tv/live/ru_dtx_hd/playlist.m3u8?login=1671191528&token=50ed8841fdb6520723ec23cbb82fd03fbb5d9a9bf537c5decfbea402e083fef7&lk=d7b79a31877e078e5b8c4114aac237e1&cb=0.25791082841874324
+#EXTINF:0 type="stream" channelId="1282", АВТО 24 HD
+http://178.217.72.66:8080/Avto_24/video.m3u8
+#EXTINF:0 type="stream" channelId="55", АВТОПЛЮС
+http://37.18.59.236:8080/avtoplyus/index.m3u8
+#EXTINF:0 type="stream" channelId="220", ДРАЙВ
+http://31.148.48.15:80/Drive/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="607" group="KINO+", VIP Comedy HD
+http://37.18.59.236:8080/vipcomedy/index.m3u8
+#EXTINF:0 type="stream" channelId="606" group="KINO+", VIP Megahit HD
+http://37.18.59.236:8080/vipmegahit/index.m3u8
+#EXTINF:0 type="stream" channelId="605" group="KINO+", VIP Premiere HD
+http://37.18.59.236:8080/vippremiere/index.m3u8
+#EXTINF:0 type="stream" channelId="3894" group="KINO+", VIP Serial HD
+http://37.18.59.236:8080/vipserialhd/index.m3u8
+#EXTINF:0 type="stream" channelId="193" group="KINO+", TV XXI
+http://37.18.59.236:8080/tvxxi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KINO+" logo="http://ottiptv.ru/img/logos/films/denpobedy.png", День Победы HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/DENPOBEDY/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="3922" group="KINO+", ПОБЕДА
+http://iptv.mega.net.ru:8888/TVRU2/Pobeda/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KINO+" logo="http://ottiptv.ru/img/logos/efir/zvezda-plus.png", Звезда Плюс HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/zvezdaplus/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="-1" group="KINO+" logo="http://ottiptv.ru/img/logos/efir/zvezda.png", Звезда HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/ZVEZDA/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="4847" group="KINO+" logo="http://stream-norst.cf/tvoetv.png", Твоё ТВ
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0 type="stream" channelId="3043" group="KINO+" logo="http://ottiptv.ru/img/logos/films/russky-roman.png", Русский Роман HD
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/RUSROMAN/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="1628" group="KINO+" logo="http://ottiptv.ru/img/logos/films/russky-detektiv.png", Русский детектив
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/rdet/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="2657" group="KINO+", ДОМ КИНОПРЕМИУМ HD
+http://37.18.59.236:8080/domkinopremiumhd/index.m3u8
+#EXTINF:0 type="stream" channelId="915" group="KINO+", Amedia Premium HD
+http://37.18.59.236:8080/amediapremiumhd/index.m3u8
+#EXTINF:0 type="stream" channelId="1932" group="KINO+", Amedia Hit HD
+http://37.18.59.236:8080/amediahithd/index.m3u8
+#EXTINF:0 type="stream" channelId="1637" group="KINO+", Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3920"group="KINO+", Hollywood HD
+http://178.217.72.66:8080/hollywoodhd/video.m3u8
+#EXTINF:0 type="stream" channelId="147"group="KINO+", Дорама HD
+http://178.217.72.66:8080/Dorama/video.m3u8
+#EXTINF:0 type="stream" channelId="68" group="KINO+", Дом кино
+http://178.217.72.66:8080/Dom_Kino/video.m3u8
+#EXTINF:0 type="stream" channelId="169" group="KINO+", МУЖСКОЕ КИНО HD
+http://37.18.59.236:8080/muzhskoekinohd/index.m3u8
+#EXTINF:0 type="stream" channelId="194" group="KINO+", КИНОКОМЕДИЯ
+http://37.18.59.236:8080/kinokomediya/index.m3u8
+#EXTINF:0 type="stream" channelId="410" group="KINO+", КИНОПРЕМЬЕРА HD
+http://37.18.59.236:8080/kinopremyerahd/index.m3u8
+#EXTINF:0 type="stream" channelId="195" group="KINO+", КИНОСЕРИЯ
+http://37.18.59.236:8080/kinoseriya/index.m3u8
+#EXTINF:0 type="stream" channelId="568" group="KINO+", КИНОСЕМЬЯ HD
+http://37.18.59.236:8080/kinosemyahd/index.m3u8
+#EXTINF:0 type="stream" channelId="409" group="KINO+", КИНОХИТ
+http://37.18.59.236:8080/kinohit/index.m3u8
+#EXTINF:0 type="stream" channelId="413" group="KINO+", КИНОСВИДАНИЕ
+http://37.18.59.236:8080/kinosvidanie/index.m3u8
+#EXTINF:0 type="stream" channelId="270" group="KINO+", КИНОМИКС HD
+http://37.18.59.236:8080/kinomixhd/index.m3u8
+#EXTINF:0 type="stream" channelId="316" group="KINO+", РОДНОЕ КИНО
+http://178.217.72.66:8080/Rodnoe_Kino/video.m3u8
+#EXTINF:0 type="stream" channelId="168" group="KINO+", ИНДИЙСКОЕ КИНО
+http://iptv.mega.net.ru:8888/TVRU2/Indiiskoe_kino/index.m3u8
+#EXTINF:0 type="stream" channelId="1859" group="KINO+" logo="http://ottiptv.ru/img/logos/films/kinouzhas.png", Киноужас HD
+http://192.162.212.60:4880/kinoujas/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="229" group="KINO+" logo="http://ottiptv.ru/img/logos/films/shokiruyushchee.png", Шокирующее HD
+http://cdn.ottiptv.fun:8880/bal_c9l8u2d4f9l1a3r7e9/shok/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="-1" group="KINO+" logo="https://i.ibb.co/nj7Bdbs/SGN-04-24-2022-1650746279377.png", BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KINO+" logo="https://i.ibb.co/X2Cqx73/SGN-04-24-2022-1650746943539.png", BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:0 type="stream" channelId="1633"group="KINO+" logo="http://ottiptv.ru/img/logos/films/ostrosiuzhetnoe-hd.png", Остросюжетное HD
+http://cdn.ottiptv.fun:8880/bal_c0l8u2d4f9l1a3r7e0/OSTROSUJETNOE/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="stream" channelId="272" group="KINO+", НСТ
+http://37.18.59.236:8080/nst/index.m3u8
+#EXTINF:0 type="favorites" channelId="1728" group="дети", СТС Kids HD
+http://37.18.59.236:8080/stskidshd/index.m3u8
+#EXTINF:0 type="favorites" channelId="1722" group="дети", МУЛЬТ HD
+http://37.18.59.236:8080/multhd/index.m3u8
+#EXTINF:0 type="favorites" channelId="183"group="дети", Gulli Girl
+http://37.18.59.236:8080/gulligirl/index.m3u8
+#EXTINF:0 type="favorites" channelId="20" group="дети",Карусель
+http://31.148.48.15:80/Paramount_Comedy/index.m3u8?token=test
+#EXTINF:0 type="favorites" channelId="-1" group="дети" logo="http://ottiptv.ru/img/logos/ukraina/plusplus.png", Плюс-плюс HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/plyus_plyus_HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="favorites" channelId="-1" group="дети" logo="http://ottiptv.ru/img/logos/ukraina/pixel.png", Пиксель HD
+http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/piksel__HD/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:0 type="favorites" channelId="24" group="Music", ТНТ music
+http://185.23.80.28:8080/TNTMusic/index.m3u8
+#EXTINF:0 type="favorites" channelId="45" group="Music", RU.TV
+http://185.23.80.28:8080/RU.TV/index.m3u8
+#EXTINF:0 type="favorites" channelId="136" group="Music", МузТВ
+http://185.23.80.28:8080/MUZTV/index.m3u8
+#EXTINF:0 type="favorites" channelId="148" group="Music", Музыка Первого
+http://185.23.80.28:8080/MuzikaPervogo/index.m3u8
+#EXTINF:0 type="favorites" channelId="484" group="Music", BRIDGE TV Русский хит
+http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8
